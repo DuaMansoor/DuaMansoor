@@ -126,9 +126,9 @@ Advanced React
 
 I'm always interested in learning, collaborating, and working on interesting software projects.
 
-* 💼 LinkedIn: **Add your LinkedIn here**
-* 📧 Email: **Add your professional email here**
-* 🌐 Portfolio: **Add your portfolio here**
+* 💼 LinkedIn: www.linkedin.com/in/dua-mansoor-04b165293
+* 📧 Email: duamansoor381@gmail.com
+
 
 ---
 
