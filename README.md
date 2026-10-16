@@ -84,11 +84,6 @@ Hands-on Docker and DevOps practice project demonstrating containerization conce
 
 ---
 
-### ☸️ DevOps Lab
-
-A learning repository documenting practical Git, GitHub, and DevOps exercises.
-
-**Technologies:** Git, GitHub, DevOps
 
 ---
 
