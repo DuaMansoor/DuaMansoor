@@ -132,9 +132,12 @@ Advanced React
 
 ## 📊 GitHub Stats
 
-![Dua's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuaMansoor\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuaMansoor\&layout=compact\&theme=tokyonight)
+![Dua's GitHub Stats](https://github-stats-extended.vercel.app/api?username=DuaMansoor&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DuaMansoor&layout=compact&theme=tokyonight)
+
 
 ---
 
