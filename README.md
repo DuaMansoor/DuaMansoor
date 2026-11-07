@@ -1,27 +1,48 @@
 # 👋 Hi, I'm Dua Mansoor
 
-### 💻 Computer Science Student | Full-Stack Developer | AI & DevOps Enthusiast
+🎨 UI/UX Designer | 💻 MERN Stack Developer | 🤖 AI & DevOps Enthusiast
 
-I'm a Computer Science student passionate about building **web applications, AI-powered tools, and practical software solutions**.
+I'm a Computer Science student passionate about designing intuitive user experiences and building modern, responsive web applications.
 
-I enjoy turning ideas into functional applications and continuously improving my skills in **Full-Stack Development, Artificial Intelligence, Docker, Kubernetes, and DevOps**.
+I enjoy combining creative UI/UX design with full-stack development to transform ideas into functional, user-friendly digital products. My interests include user-centered design, frontend development, MERN stack applications, and AI-powered solutions.
+
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 💻 Interested in Full-Stack Web Development
-* 🤖 Exploring AI-powered applications
+* 🎨 Passionate about UI/UX Design and User-Centered Design
+* 💻 MERN Stack Developer
+* 🖌️ Interested in creating clean, modern, and responsive interfaces
+* 🤖 Exploring AI-powered applications and integrations
 * 🐳 Learning Docker & Containerization
 * ☸️ Currently learning Kubernetes
-* 🔧 Practicing DevOps and CI/CD
+* 🔧 Practicing Git, GitHub, and CI/CD
 * 🌱 Always learning and building new projects
 * 📍 Pakistan
 
 ---
 
 ## 🛠️ Tech Stack
+
+## 🎨 UI/UX Design
+
+* **UI Design**
+
+* **UX Design**
+
+* **Wireframing**
+
+* **Prototyping**
+
+* **Responsive Web Design**
+  
+* **User-Centered Design**
+
+* **Visual Hierarchy**
+
+* **Interactive Interface Design**
 
 ### Languages
 
